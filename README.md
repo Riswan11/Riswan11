@@ -12,9 +12,9 @@ I'm currently pursuing a **Master of Liberal Arts (ALM) in Cybersecurity at Harv
 
 ## 🚀 What I'm Currently Building
 
-### [SentinelForge](https://github.com/Riswan11/SentinelForge)
+### [TrailHound](https://github.com/Riswan11/TrailHound)
 
-An extensible, evidence-first agentic cybersecurity platform designed to transform how organizations investigate, understand, and respond to security threats.
+An evidence-backed AWS CloudTrail investigation workspace for tracing IAM activity, inspecting evidence, and recording analyst decisions.
 
 The long-term vision includes:
 
