@@ -6,13 +6,13 @@ I'm a software and security engineer passionate about building secure, scalable,
 
 Previously, I worked at **Microsoft**, contributing to the Azure Managed HSM platform, where I focused on engineering secure cloud infrastructure, platform reliability, container security, and DevSecOps automation.
 
-I'm currently pursuing a **Master of Liberal Arts (ALM) in Cybersecurity at Harvard Extension School**, while exploring the intersection of artificial intelligence and cybersecurity.
+I'm currently pursuing a **Master of Arts in Cybersecurity at Harvard**, while exploring the intersection of artificial intelligence and cybersecurity.
 
 ---
 
 ## 🚀 What I'm Currently Building
 
-### [SentinelForge](https://github.com/Riswan11/SentinelForge)
+### [RiswanIR](https://github.com/riswan-labs/RiswanIR)
 
 An extensible, evidence-first agentic cybersecurity platform designed to transform how organizations investigate, understand, and respond to security threats.
 
